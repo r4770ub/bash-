@@ -1,0 +1,2 @@
+unzip -j -d /home/r4770/Desktop/ /home/r4770/Desktop/bkupFile_04042020_230546.zip
+sudo chmod -w  MakeMake
